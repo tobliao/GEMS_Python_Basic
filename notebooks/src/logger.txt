@@ -1,0 +1,2 @@
+2023-07-11 17:33:50,254 | MyFileLogger | WARNING    | Oops something is going to happen
+2023-07-11 17:33:50,254 | MyFileLogger | ERROR      | John Doe visits our place
